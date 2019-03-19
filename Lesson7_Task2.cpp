@@ -6,8 +6,8 @@ using namespace std;
 const int N = 5;
 bool *visited = new bool[N];
 /* Граф
-         1
-		   /   \
+               1
+             /   \
 	    /     \
 	   /   3   \
 	  /  /    \ \
